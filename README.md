@@ -1,4 +1,4 @@
-# Babu's Analytics Portfolio
+# Analytics Portfolio
 
 Welcome! I am currently working in analytics and learning data science. This profile brings together my data-analysis work in Python, Tableau, Power BI, SQL, and Excel.
 
@@ -11,7 +11,6 @@ Welcome! I am currently working in analytics and learning data science. This pro
 | [Power BI Projects](https://github.com/bd05-spec/Power-Bi-Projects) | Dashboards for consumer complaints, healthcare, hotels, insurance, Meta advertising, sales, and US airlines. |
 | [SQL Projects](https://github.com/bd05-spec/SQL) | SQL Server analysis and data modeling for bank churn, merchant interchange, and Swiggy orders. |
 | [Excel Projects](https://github.com/bd05-spec/Excel) | Spreadsheet dashboards covering aviation, Chicago crime, e-commerce, and electric vehicles. |
-| [Data Analytics Portfolio](https://github.com/bd05-spec/data-analytics-portfolio) | End-to-end project work combining Python, SQL, processed datasets, and standalone Power BI reports. |
 
 ## How I approach analysis
 
