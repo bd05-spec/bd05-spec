@@ -1,9 +1,36 @@
-# 💫 About Me:
-🔭 I’m currently working on Analytics<br>🌱 I’m currently learning Data Science
+# Babu's Analytics Portfolio
 
+Welcome! I am currently working in analytics and learning data science. This profile brings together my data-analysis work in Python, Tableau, Power BI, SQL, and Excel.
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:villadorababu05@gmail.com) 
+## Project repositories
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+| Repository | Focus |
+| --- | --- |
+| [Python Projects](https://github.com/bd05-spec/Python_Projects) | Jupyter Notebook analyses for bank lending and grocery sales, from data checks and cleaning through KPIs and visual exploration. |
+| [Tableau Projects](https://github.com/bd05-spec/Tableau-Projects) | Interactive dashboards for aviation accidents, electric vehicles, lending, the 2024 India general election, and vehicle-insurance cross-sell. |
+| [Power BI Projects](https://github.com/bd05-spec/Power-Bi-Projects) | Dashboards for consumer complaints, healthcare, hotels, insurance, Meta advertising, sales, and US airlines. |
+| [SQL Projects](https://github.com/bd05-spec/SQL) | SQL Server analysis and data modeling for bank churn, merchant interchange, and Swiggy orders. |
+| [Excel Projects](https://github.com/bd05-spec/Excel) | Spreadsheet dashboards covering aviation, Chicago crime, e-commerce, and electric vehicles. |
+| [Data Analytics Portfolio](https://github.com/bd05-spec/data-analytics-portfolio) | End-to-end project work combining Python, SQL, processed datasets, and standalone Power BI reports. |
+
+## How I approach analysis
+
+Across these projects, the focus is on understanding the question first, checking data quality, defining meaningful measures, and presenting comparisons in a form that supports further investigation. The repositories include notebooks, SQL scripts, workbooks, dashboards, and supporting data where available.
+
+## Tools
+
+Python, pandas, NumPy, Jupyter, SQL Server, MySQL, Tableau, Power BI, Excel, Matplotlib, and Plotly.
+
+Project details, dataset coverage, and refresh requirements are documented in each repository where available. Treat dashboard results as descriptive analysis and check the underlying data and definitions before making decisions.
+
+## About me
+
+I am currently working on analytics and learning data science.
+
+## Socials
+
+[Email](mailto:villadorababu05@gmail.com)
+
+## Tech stack
+
+Python, R, MySQL, Microsoft SQL Server, NumPy, Matplotlib, pandas, Plotly, PyTorch, scikit-learn, SciPy, TensorFlow, and Power BI.
