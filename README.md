@@ -11,6 +11,7 @@ Welcome! I am currently working in analytics and learning data science. This pro
 | [Power BI Projects](https://github.com/bd05-spec/Power-Bi-Projects) | Dashboards for consumer complaints, healthcare, hotels, insurance, Meta advertising, sales, and US airlines. |
 | [SQL Projects](https://github.com/bd05-spec/SQL) | SQL Server analysis and data modeling for bank churn, merchant interchange, and Swiggy orders. |
 | [Excel Projects](https://github.com/bd05-spec/Excel) | Spreadsheet dashboards covering aviation, Chicago crime, e-commerce, and electric vehicles. |
+| [Analytics Project](https://github.com/bd05-spec/data-analytics-portfolio) | Public analytics portfolio with standalone project analyses, reports and supporting assets. |
 
 ## How I approach analysis
 
